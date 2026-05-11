@@ -43,6 +43,9 @@ AI-powered chatbot focused on accessible, culturally responsive, and stigma-free
 - Conducted UX research on ML + human interaction across diverse demographics  
 - Iterated on prototypes to improve accessibility, usability, and trust  
 
+**See published paper**
+https://repository.usfca.edu/cgi/viewcontent.cgi?article=1127&context=jips
+
 ---
 
 ### 📍 WanderSwipe SF – Travel Discovery App  
